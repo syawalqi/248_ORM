@@ -21,7 +21,7 @@
 // 16 tambahkan script 
 // "start": "nodemon index.js"
 // 17 jalankan npm start
-// 18 lanjutkan membuat crud di index.js post dan get
+// 18 lanjutkan membuat crud di index.js post dan get, put, delete
 
 
 const express = require("express");

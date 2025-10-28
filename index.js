@@ -10,4 +10,5 @@
 // git init
 // git branch -M main
 // git remote add origin https://github.com/syawalqi/248_ORM.git
+// membuat file /models/komik.js
 
